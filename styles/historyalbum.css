@@ -1,0 +1,121 @@
+section{
+    background: url('../images/wladislaw-sokolowskij-0vw4InAC-yM-unsplash.jpg') no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+section > h1{
+    color: #fff;
+    text-align: center;
+}
+
+section > p{
+    color: #fff;
+    text-align: center;
+}
+
+.containers
+{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+}
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;
+}
+
+.texts
+{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container2
+{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px; 
+}
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;  
+}
+
+.text2
+{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.container3
+{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px; 
+}
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;  
+}
+
+.text3
+{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.container4
+{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px; 
+}
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;  
+}
+
+.text4
+{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.container5
+{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px; 
+}
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;  
+}
+
+.text5
+{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
